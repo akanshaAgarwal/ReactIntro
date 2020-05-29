@@ -1,2 +1,0 @@
-# ReactIntro
-Sample React application
