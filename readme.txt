@@ -31,3 +31,10 @@ is the main container where everything goes.
 
 Babel - pass code through babel, which is modern js 
 compiler. 
+
+All the components go into a components folder in src
+Use jsx instead of js for better code completion
+
+Jsx expressions must have a parent element 
+since it gets converted to React.createelement('h1')
+so we need a parent div 
