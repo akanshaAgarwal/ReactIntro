@@ -1,3 +1,21 @@
+This is a demo application. A counter application is created using React.
+
+To run this code follow the following steps :
+
+(1) clone the repository using the following command : <i> git clone https://wwwin-github.cisco.com/akansaga/ReactIntro.git </i> 
+
+(2) Install nodejs.
+
+(4) To run the application give the following command : <i> npm start </i>
+
+NOTE : The application will run on localhost:3000 
+
+<br />
+<br />
+<br />
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
