@@ -9,7 +9,7 @@ import Counters from "./components/counters";
 ReactDOM.render(
   <React.StrictMode>
     {/* <App /> ; replace by counter sice we want to render that component */}
-    <Counters />
+    <App />
   </React.StrictMode>,
   document.getElementById("root")
 );
